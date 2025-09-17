@@ -3,7 +3,7 @@ THis repo's got a bunch of small Python projects I whipped up for practice and l
 
 
 ## Projects
-- [Number Guessing Name](BitByBite/GuessNumber/NumberGuesser.py): A fun little game where you try to guess a random number.
+- [Number Guessing Game](bitbybite/guess_number/number_guesser.py): A fun little game where you try to guess a random number.
 
 
 ## How to Run
