@@ -8,6 +8,6 @@ THis repo's got a bunch of small Python projects I whipped up for practice and l
 
 ## How to Run
 To get these projectsbruning, make sure you've got Python 3.8 or higher installed. Then, hop into the project's folder and run:
-```bash
+``bash
 python NumberGuesser.py
 
