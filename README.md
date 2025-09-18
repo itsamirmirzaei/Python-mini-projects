@@ -4,6 +4,7 @@ THis repo's got a bunch of small Python projects I whipped up for practice and l
 
 ## Projects
 - Number Guessing Game: A fun little game where you try to guess a random number.
+- Rock Paper Scissors: The classic game to settle any argument, coded in Python!
 
 
 ## How to Run
