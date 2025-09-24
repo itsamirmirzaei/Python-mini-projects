@@ -10,6 +10,7 @@ THis repo's got a bunch of small Python projects I whipped up for practice and l
 - Roulette Game: Roulette Game Implementation in Python. 
 - Slot Machine: # A simple slot machine game implemented in Python.
 - Bank Accoumt: Bank account management project using object-oriented programming in Python.
+- Car Store: Manage a car store using python.
 
 ## How to Run
 To get these projects bruning, make sure you've got Python 3.8 or higher installed. Then, hop into the project's folder and run:
